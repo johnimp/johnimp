@@ -3,7 +3,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am from Ireland
-More specifically Kilcar
+More specifically Kilcar near Bogagh
 
 <!---
 johnimp/johnimp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
